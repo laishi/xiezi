@@ -1,0 +1,29 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(8, 20, 8);
+}
+
+canvas {
+    border: 0px solid black;
+}
+
+#inputText{
+    width: 100%;
+}
+
+.label-select-wrapper {
+    display: inline-block;
+    width: 50%;
+  }
+  
+  .button-container {
+    display: flex;
+    width: 100%;
+  }
+  
+  .select-font,
+  .submit-btn {
+    width: 50%;
+  }
+  
